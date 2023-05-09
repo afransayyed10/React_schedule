@@ -1,0 +1,39 @@
+[
+    {
+      "Id": 1,
+      "Subject": "Conference",
+      "StartTime": "2023-04-16T09:00:00.000",
+      "EndTime": "2023-04-16T10:00:00.000",
+      "IsAllDay": false
+    },
+    {
+      "Id": 2,
+      "Subject": "Meeting",
+      "StartTime": "2023-04-17T10:00:00.000",
+      "EndTime": "2023-04-17T10:30:00.000",
+      "IsAllDay": false
+    },
+    {
+      "Id": 3,
+      "Subject": "Testing",
+      "StartTime": "2023-04-19T09:00:00.000",
+      "EndTime": "2023-04-19T10:00:00.000",
+      "IsAllDay": false
+    },
+    {
+      "Id": 4,
+      "Subject": "Vacation",
+      "StartTime": "2023-04-21T12:00:00.000",
+      "EndTime": "2023-04-21T12:30:00.000",
+      "IsAllDay": false
+    },
+
+    {
+        "Id": 5,
+        "Subject": "Scrum Meeting",
+        "StartTime": "2023-04-19T13:00:00.000",
+        "EndTime": "2023-04-19T13:30:00.000",
+        "IsAllDay": false
+    }
+  ]
+  
